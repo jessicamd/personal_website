@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  border-radius: 50%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.About {
+  background-color: goldenrod;
+  height: 500px;
+  vertical-align: center;
+  font-size: 30px;
+  line-height: 300px;
+  word-wrap: break-word;
+}
+
+.Work {
+  background-color: rgb(57, 110, 180);
+  height: 600px;
+  vertical-align: center;
+  font-size: 30px;
+  line-height: 300px;
+  word-wrap: break-word;
+}
+
+.Resume {
+  background-color: gray;
+  height: 600px;
+  vertical-align: center;
+  font-size: 30px;
+  line-height: 300px;
+  word-wrap: break-word;
+}
